@@ -1,11 +1,10 @@
-package operators;
-
 class Letter{
     char c;
 }
 
+
 public class PassObject {
-    static void f(Letter y){
+    static void f (Letter y) {
         y.c = 'z';
     }
     public static void main(String[] args){

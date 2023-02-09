@@ -1,4 +1,4 @@
-package operators;
+//package operators;
 
 import java.util.Random;
 
@@ -46,3 +46,4 @@ public class MathOps {
         System.out.println("u /= v : " + u);
     }
 }
+
